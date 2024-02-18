@@ -4,3 +4,8 @@ HI10001136_B.pdf Zeigt die Zusammenstellung. Konstruktion wurde noch nie gebaut 
 A zero adjuster is used to measure tool length on a CNC machine
 HI10001136_B.pdf Shows the compilation. Construction has never been built and may be defective
 
+
+![alt text](https://github.com/hidbefra/Nulleinsteller/blob/main/Capture1.PNG)
+
+![alt text](https://github.com/hidbefra/Nulleinsteller/blob/main/Capture2.PNG)
+

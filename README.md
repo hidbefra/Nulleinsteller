@@ -8,7 +8,7 @@ HI10001136_B.pdf Shows the compilation. Construction has never been built and ma
 BOM HI10001136_B Nulleinsteller
 |Pos.	|Anz.	|Datei Name	                                                        |Name                                              |
 |-----|-----|-------------------------------------------------------------------|--------------------------------------------------|
-|1	    |1	    |HI10001131_A	                                                      |BCXT53 mitutoyo 123160.0801
+|1|1	    |HI10001131_A	                                                      |BCXT53 mitutoyo 123160.0801
 |2	    |1	    |HI10001133_A	                                                      |Büchse
 |3	    |1	    |HI10001134_B	                                                      |Gehäuse
 |4	    |1	    |HI10001135_B	                                                      |Stössel

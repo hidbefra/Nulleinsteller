@@ -5,6 +5,7 @@ A zero adjuster is used to measure tool length on a CNC machine
 HI10001136_B.pdf Shows the compilation. Construction has never been built and may be defective
 
 
+
 BOM HI10001136_B Nulleinsteller
 |Pos.|Anz.|Datei Name|Name|
 |-----|-----|-------------------------------------------------------------------|--------------------------------------------------|
